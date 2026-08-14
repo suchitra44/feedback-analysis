@@ -39,3 +39,7 @@ def main():
     print("\n" + "=" * 70)
     print("PIPELINE COMPLETE")
     print("=" * 70)
+
+
+if __name__ == '__main__':
+    main()
