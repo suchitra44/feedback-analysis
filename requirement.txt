@@ -1,0 +1,14 @@
+# Data processing
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Testing
+pytest>=7.4.0
+
+# NLP (for later phases)
+transformers>=4.30.0
+nltk>=3.8.1
+
+# Utilities
+python-dotenv>=1.0.0
+tqdm>=4.66.0
